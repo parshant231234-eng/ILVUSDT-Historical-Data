@@ -8,9 +8,9 @@ An institutional-grade, open-source archive of cleaned, standardized, and valida
 - **Symbol:** `ILVUSDT`
 - **Market:** Binance Spot
 - **Timeframe:** 1 Minute (`1m`)
-- **Total Months:** `62` months
-- **Total Candles:** `2,680,719` 1-minute candles
-- **Historical Range:** `2021-09-22 06:00:00` to `2026-10-27 23:59:00` (UTC)
+- **Total Months:** `63` months
+- **Total Candles:** `2,696,559` 1-minute candles
+- **Historical Range:** `2021-09-22 06:00:00` to `2026-11-07 23:59:00` (UTC)
 - **Schema:** `timestamp, datetime_utc, open, high, low, close, volume, quote_volume, trade_count, taker_buy_volume, taker_buy_quote_volume`
 
 ---
